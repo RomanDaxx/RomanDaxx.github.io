@@ -13,26 +13,34 @@
             body {
                 background-color: rgb(19, 129, 148);
             }
+            #lol {
+                color: rgb(235, 23, 7);
+                background-color: rgb(11, 75, 99);
+            }
+            #hey {
+                background-color: rgb(184, 61, 184);
+            }
+            
         </style>
     </head>
     
   <body>
 
-        <h1>Hey, what's up?</h1>
+        <h1 id="hey">Hey, what's up?</h1>
         
         <p>
         tralalalalalalal
         </p>
         
         <h2>Nigger</h2>
-        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/St%C3%A4nderbohrmaschine_mit_Transmissionsantrieb.jpg" width="150" height="200">
        
        <h3>Vasya</h3>
-       <p> sedcsdcsdcsdc <br>
-       dscsdcsdcsdcsdcs
-       sdcsdcsdcsdcsdc <br>
-       sdcsdcsdcsdcsdcsdcsdcs <br>
-       sdcsdcsdcsdcsdc
+       <p id="lol"> lollolololoo <br>
+       lolololooololololo <br>
+       lololololololololol <br>
+       sdcsloololololols <br>
+       lololololololoolololo
         </p>
     </body>
 </html>
