@@ -25,7 +25,7 @@
         </p>
         
         <h2>Nigger</h2>
-        <img src="https://www.kasandbox.org/programming-images/avatars/mr-pants-purple.png">
+        
        
        <h3>Vasya</h3>
        <p> sedcsdcsdcsdc <br>
